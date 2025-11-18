@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, my name is Laura 🌷
 
-<!--
-**LauraSchmolzer/LauraSchmolzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third year General Engineering - Cyber System student at DTU in Copenhagen. 
 
-Here are some ideas to get you started:
+### Interests 🪷
+- Cryptography
+- Cyber Security
+- Computer Architecture
+- Network Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools 🪷
+- Python | TypeScript | Rust | JavaScript | F# | C
+- Git | GitHub Actions | VS Code | Vagrant
+
+### Projects 🪷
+- [DTU TLSNotary Plugin](https://github.com/LauraSchmolzer/tlsn-plugin-DTUaccount-thesis.git) – Verifying student accounts securely
+
+### Contact 🪷
+- [LinkedIn](https://www.linkedin.com/in/laura-schmolzer-4b75262b0)  
+- Email: lauraschmolzer@gmail.com
+
+
+

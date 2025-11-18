@@ -16,7 +16,7 @@ I am a third year General Engineering - Cyber System student at DTU in Copenhage
 - [DTU TLSNotary Plugin](https://github.com/LauraSchmolzer/tlsn-plugin-DTUaccount-thesis.git) – Verifying student accounts securely
 
 ### Contact 🪷
-- [LinkedIn](https://www.linkedin.com/in/laura-schmolzer-4b75262b0)  
+- [LinkedIn](https://www.linkedin.com/in/laura-schmölzer-4b75262b0/)  
 - Email: lauraschmolzer@gmail.com
 
 

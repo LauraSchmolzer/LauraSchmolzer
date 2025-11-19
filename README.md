@@ -10,7 +10,7 @@ I am a third year General Engineering - Cyber System student at DTU in Copenhage
 
 ### Languages and Tools 🪷
 - Python | TypeScript | Rust | JavaScript | F# | C
-- Git | GitHub Actions | VS Code | Vagrant
+- Git | Vagrant | Chrome DevTools
 
 ### Projects 🪷
 - [DTU TLSNotary Plugin](https://github.com/LauraSchmolzer/tlsn-plugin-DTUaccount-thesis.git) – Verifying student accounts securely

@@ -18,7 +18,7 @@ I am a third year General Engineering - Cyber System student at DTU in Copenhage
 
 ### Contact 🪷
 - [LinkedIn](https://www.linkedin.com/in/laura-schmölzer-4b75262b0/)  
-- Email: lauraschmolzer@gmail.com
+- [Email](lauraschmolzer@gmail.com)
 
 
 

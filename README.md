@@ -5,7 +5,8 @@ I am a third year General Engineering - Cyber System student at DTU in Copenhage
 ### Interests 🪷
 - Cryptography
 - Cyber Security
-- Computer Architecture
+- Computer Systems 
+- Structured and Modular Software Architecture
 - Network Systems
 
 ### Languages and Tools 🪷

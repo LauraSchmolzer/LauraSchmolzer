@@ -10,7 +10,7 @@ I am a third year General Engineering - Cyber System student at DTU in Copenhage
 - Network Systems
 
 ### Languages and Tools 🪷
-- Python | TypeScript | Rust | JavaScript | F# | C
+- Python | TypeScript | JavaScript | F# | C | ( Rust ) 
 - Git | Vagrant | Chrome DevTools
 
 ### Projects 🪷

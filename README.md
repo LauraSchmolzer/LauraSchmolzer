@@ -15,7 +15,7 @@ I am a third year General Engineering - Cyber System student at DTU in Copenhage
 
 ### Projects 🪷
 - [DTU TLSNotary Plugin](https://github.com/LauraSchmolzer/tlsn-plugin-DTUaccount-thesis.git) – Verifying student accounts securely
-- [TLS handshake Implementation](https://github.com/LauraSchmolzer/TLS-handshake-implementation.git) – TLS 1.3 in a Bidirectional Interactive Application (WIP)
+- [TLS handshake Implementation](https://github.com/LauraSchmolzer/TLS-handshake-implementation.git) – TLS 1.3 in a Bidirectional Interactive Application 
 - [Merkle Tree Maker](https://github.com/LauraSchmolzer/MerkleTree.git) - Transforms a small text into a Merkle Tree for selective disclosure
 
 ### Contact 🪷

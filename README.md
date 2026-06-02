@@ -11,7 +11,7 @@ I am a third year General Engineering - Cyber System student at DTU in Copenhage
 
 ### Languages and Tools 🪷
 - Python | Type/JavaScript | Java | F# | C | ( Rust ) 
-- Git | Vagrant | Chrome DevTools | Linux & MacOS
+- Git | Vagrant | Chrome DevTools | Linux & MacOS | Wazuh & OpenSearch
 
 ### Projects 🪷
 - [DTU TLSNotary Plugin](https://github.com/LauraSchmolzer/tlsn-plugin-DTUaccount-thesis.git) – Verifying student accounts securely
